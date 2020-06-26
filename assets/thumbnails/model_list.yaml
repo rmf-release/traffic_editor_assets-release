@@ -1,0 +1,61 @@
+meters_per_pixel: 0.004
+models:
+- OpenRobotics/Chair
+- OpenRobotics/Construction Cone
+- OpenRobotics/Lamp Post
+- OpenRobotics/Oak tree
+- OpenRobotics/Pine Tree
+- OpenRobotics/Standing person
+- OpenRobotics/Bookshelf
+- OpenRobotics/Cafe
+- OpenRobotics/Cafe table
+- OpenRobotics/Fountain
+- OpenRobotics/Gazebo
+- OpenRobotics/Playground
+- OpenRobotics/SUV
+- OpenRobotics/Table
+- OpenRobotics/Coke
+- OpenRobotics/ElectronicsRecycling
+- OpenRobotics/KitchenCountertop
+- OpenRobotics/KitchenSink
+- OpenRobotics/LampAndStand
+- OpenRobotics/MopCart3
+- OpenRobotics/ParkingTrolleyMax
+- OpenRobotics/AdjTable
+- OpenRobotics/BigCubicle
+- OpenRobotics/ConfTable
+- OpenRobotics/Fridge
+- OpenRobotics/RecTable
+- OpenRobotics/SmallCubicle
+- OpenRobotics/Drawer
+- OpenRobotics/FemaleVisitor
+- OpenRobotics/FemaleVisitorSit
+- OpenRobotics/MainTable
+- OpenRobotics/MaleVisitorSit
+- OpenRobotics/OfficeChairBlack
+- OpenRobotics/OfficeChairBlue
+- OpenRobotics/OfficeChairGrey
+- OpenRobotics/PotatoChipChair
+- OpenRobotics/SquareShelf
+- OpenRobotics/StorageRack
+- OpenRobotics/VisitorKidSit
+- OpenRobotics/WhiteCabinet
+- OpenRobotics/WhiteChipChair
+- OpenRobotics/MiniSofa
+- OpenRobotics/RobotPlaceholder
+- OpenRobotics/TeleportDispenser
+- OpenRobotics/TeleportIngestor
+- OpenRobotics/TruckBox
+- OpenRobotics/TruckDelivery
+- OpenRobotics/AnesthesiaMachine
+- OpenRobotics/ArmoredPillars
+- OpenRobotics/BMWCart
+- OpenRobotics/CArm
+- OpenRobotics/InstrumentCart1
+- OpenRobotics/InstrumentCart2
+- OpenRobotics/MiR100
+- OpenRobotics/StorageRackCovered
+- OpenRobotics/SurgicalTrolleyMed
+- OpenRobotics/TrolleyBedPatient
+- OpenRobotics/TrolleyBox1
+- OpenRobotics/TrolleyBox2
