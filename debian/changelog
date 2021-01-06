@@ -1,0 +1,30 @@
+ros-foxy-traffic-editor-assets (1.2.0-1focal) focal; urgency=high
+
+  * Visibility of airport related thumbnails that have been added #16 <https://github.com/osrf/traffic_editor_assets/issues/16>
+  * Fixed rotation on CGMClassic model with new thumbnail #15 <https://github.com/osrf/traffic_editor_assets/issues/15>
+  * add foodcourt models
+  * add display racks
+  * add suitcases
+  * add airport models
+  * Contributors: Aaron, Aaron Chong, Marco A. Gutierrez, Yadu, kevinskwk, youliang
+
+ -- Brandon Ong <brandon@openrobotics.org>  Mon, 04 Jan 2021 16:00:00 -0000
+
+ros-foxy-traffic-editor-assets (1.1.0-1focal) focal; urgency=high
+
+  * Fixed PatientWheelChair on Fuel, updated thumbnail, added MetalCabinet #13 <https://github.com/osrf/traffic_editor_assets/issues/13>
+  * Fixing thumbnail orientations for models #12 <https://github.com/osrf/traffic_editor_assets/issues/12>
+  * Added more assets for clinic demo world #11 <https://github.com/osrf/traffic_editor_assets/issues/11>
+  * Feature/chart models #10 <https://github.com/osrf/traffic_editor_assets/issues/10>
+  * Added new thumbnails for chart demos, sorted model list
+  * Contributors: Aaron Chong, kevinskwk
+
+ -- Brandon Ong <brandon@openrobotics.org>  Wed, 23 Sep 2020 16:00:00 -0000
+
+ros-foxy-traffic-editor-assets (1.0.0-1focal) focal; urgency=high
+
+
+
+ -- Brandon Ong <brandon@openrobotics.org>  Sun, 21 Jun 2020 16:00:00 -0000
+
+
